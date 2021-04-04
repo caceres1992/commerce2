@@ -1,0 +1,10 @@
+export const GET_CART = 'GET_CART'
+export const UPDATE_QUANTITY = 'UPDATE_QUANTITY'
+
+export const GET_PRODUCTS = 'GET_PRODUCTS'
+
+
+export const GENERATE_TOKEN = 'GENERATE_TOKEN'
+
+export const GET_CATEGORIA = 'GET_CATEGORIA'
+export const FILTER_CATEGORIA = 'FILTER_CATEGORIA'
